@@ -1,0 +1,4 @@
+SpeechRecognition
+sounddevice
+pyttsx3
+yt-dlp

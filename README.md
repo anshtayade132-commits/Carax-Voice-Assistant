@@ -35,5 +35,5 @@ Open ChatGPT
 Search Python on Google
 Search cars on YouTube
 Search laptop on Amazon
-Play Arijit Singh songs
+Play Golden brown songs
 Stop
